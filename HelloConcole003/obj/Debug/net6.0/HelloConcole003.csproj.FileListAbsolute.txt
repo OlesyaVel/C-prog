@@ -1,0 +1,15 @@
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\bin\Debug\net6.0\HelloConcole003.exe
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\bin\Debug\net6.0\HelloConcole003.deps.json
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\bin\Debug\net6.0\HelloConcole003.runtimeconfig.json
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\bin\Debug\net6.0\HelloConcole003.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\bin\Debug\net6.0\HelloConcole003.pdb
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.csproj.AssemblyReference.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.AssemblyInfoInputs.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.AssemblyInfo.cs
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.csproj.CoreCompileInputs.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\refint\HelloConcole003.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.pdb
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\HelloConcole003.genruntimeconfig.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\codirovka\HelloConcole003\obj\Debug\net6.0\ref\HelloConcole003.dll
